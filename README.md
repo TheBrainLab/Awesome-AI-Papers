@@ -5,7 +5,10 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 
 ## Papers
 
-
+- [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
+- [2021] Language Models are Few-Shot Learners (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
+- [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
+- [2017] Attention Is All You Need (**Transformer, NeurIPS 2017**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 - [2016] Deep Residual Learning for Image Recognition (**ResNet, CVPR 2016**). [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
 - [2015] Deep learning (**Nature 2015**). [[paper](https://hal.science/hal-04206682/document)]
 - [2012] Imagenet classification with deep convolutional neural networks (**AlexNet, NeurIps 2012**). [[paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
