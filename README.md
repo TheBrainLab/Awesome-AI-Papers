@@ -13,6 +13,7 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 
 ### 2000-2019
 - [2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (**Bert**). [[paper](https://arxiv.org/pdf/1810.04805)]
+- [2017] Mastering the game of Go without human knowledge (**AlphaGOZero, Nature 2017**). [[paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)]
 - [2017] Attention Is All You Need (**Transformer, NeurIPS 2017**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
 - [2016] Neural Architecture Search with Reinforcement Learning (**NAS**). [[paper](https://arxiv.org/pdf/1611.01578)] 
 - [2016] Mastering the game of Go with deep neural networks and tree search (**AlphaGo, Nature 2016**). [[paper](https://d1wqtxts1xzle7.cloudfront.net/82684593/2016_20go-libre.pdf?1648263964=&response-content-disposition=inline%3B+filename%3DMastering_the_game_of_Go_with_deep_neura.pdf&Expires=1740109551&Signature=WCGaYHwuy0~IXoJvuq5h6msbjWEBjz09nlyWff1veTS-0ZSEMuzsMAgNHa2gpg7Zn8f4FDMocDgXhkPqQqcjxFtTg-wZStEq-yUjBhcGXdBs1ugjf-YamzrIK669MOnhUnhMTqM6b700nyIVUu2vK5aQYoikt7YyTLX2dmDZfUNL~HQLaTsjxjy50KBVb5KUhUBMq5LOLueqeNcwwXA0H6JkwcFpqOjNAC8q7gwtiStO9sIysyrG-IFFAOrh3ozNOoP8NlhReoKBbA2-6Gb8mfeA156f7M9Fyb5ZiYG1bxRTb9S3M4MsD10V7qNjZQrsdcTzDRfxmvsYBt2K5jARyg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
