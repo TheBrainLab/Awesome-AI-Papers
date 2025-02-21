@@ -38,6 +38,7 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 - [2014] Neural Machine Translation by Jointly Learning to Align and Translate (**Attention**). [[paper](https://arxiv.org/pdf/1409.0473)]
 - [2014] Dropout: a simple way to prevent neural networks from overfitting (**Dropout**). [[paper](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)]
 - [2014] Sequence to Sequence Learning with Neural Networks (**Seq2seq, NeurIPS 2014**). [[paper](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)]
+- [2014] Distilling the Knowledge in a Neural Network (**Knowledge Distillation**). [[paper](https://arxiv.org/pdf/1503.02531)]
 - [2013] Distributed Representations of Words and Phrases and their Compositionality (**word2vec, NeurIPS 2013**). [[paper](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)]
 - [2013] Playing Atari with Deep Reinforcement Learning (**Q-learning**). [[paper](https://arxiv.org/pdf/1312.5602)]
 - [2013] auto-encoding variational bayes (**VAE**). [[paper](http://web2.cs.columbia.edu/~blei/fogm/2018F/materials/KingmaWelling2013.pdf)]
