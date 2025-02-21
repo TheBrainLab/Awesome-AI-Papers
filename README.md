@@ -24,7 +24,7 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 - [2012] Imagenet classification with deep convolutional neural networks (**AlexNet, NeurIps 2012**). [[paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
 - [2011] Deep Sparse Rectifier Neural Networks (**ReLU**). [[paper](https://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)]
 - [2009] Imagenet: A large-scale hierarchical image database  (**CVPR 2009**). [[paper](https://hal.science/hal-03926082/document)]
-### Before 2000
+### 1986-2000
 - [1998] Gradient-based learning applied to document recognition (**CNN, Proceedings of the IEEE 1998**). [[paper](https://hal.science/hal-03926082/document)]
 - [1986] Learning internal representations by error propagation (**BP, Biometrika 1986**). [[paper](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Chap8_PDP86.pdf)]
 
