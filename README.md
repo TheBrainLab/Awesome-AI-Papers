@@ -14,7 +14,7 @@ Collect 0-5 deep learning papers with milestone impact each year (1986-Now). **A
 - [2022] High-Resolution Image Synthesis with Latent Diffusion Models (**StableDiffusion, CVPR 2022**). [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models (**ICLR 2022**). [[paper](https://arxiv.org/pdf/2106.09685v1/1000)]
 - [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
-- [2021] Language Models are Few-Shot Learners (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
+- [2021] An image is worth 16x16 words: Transformers for image recognition at scale (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
 - [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
 
