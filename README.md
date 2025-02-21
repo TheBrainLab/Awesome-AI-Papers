@@ -17,6 +17,7 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 - [2021] An image is worth 16x16 words: Transformers for image recognition at scale (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
 - [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
+- [2020] Denoising Diffusion Probabilistic Models (**Diffusion, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
 
 ### 2000-2019
 - [2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (**Bert**). [[paper](https://arxiv.org/pdf/1810.04805)]
