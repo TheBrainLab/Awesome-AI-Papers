@@ -7,6 +7,7 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 ### 2020-2025
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
+- [2022] Masked Autoencoders Are Scalable Vision Learners (**MAE, CVPR 2022**).  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
 - [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
 - [2021] Language Models are Few-Shot Learners (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
