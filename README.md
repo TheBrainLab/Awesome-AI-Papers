@@ -45,6 +45,8 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 - [2009] Imagenet: A large-scale hierarchical image database  (**CVPR 2009**). [[paper](https://hal.science/hal-03926082/document)]
 ### 1986-2000
 - [1998] Gradient-based learning applied to document recognition (**CNN, Proceedings of the IEEE 1998**). [[paper](https://hal.science/hal-03926082/document)]
+- [1997] Long Short-Term Memory (**LSTM, Neural Computation 1997**). [[paper](https://ieeexplore.ieee.org/abstract/document/6795963)]
+- [1990] Finding Structure in Time (**RNN**). [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1402_1)]
 - [1986] Learning internal representations by error propagation (**BP, Biometrika 1986**). [[paper](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Chap8_PDP86.pdf)]
 
 ## Notice
