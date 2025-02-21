@@ -5,6 +5,7 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 
 ## Papers
 ### 2020-2025
+- [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2501.12948)]
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
 - [2022] Masked Autoencoders Are Scalable Vision Learners (**MAE, CVPR 2022**).  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
