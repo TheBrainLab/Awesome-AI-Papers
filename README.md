@@ -21,6 +21,7 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 - [2015] Adam: A Method for Stochastic Optimization (**Adam**). [[paper](https://arxiv.org/pdf/1412.6980)]
 - [2014] Generative Adversarial Nets (**GAN, NeurIPS 2014**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)]
 - [2013] Distributed Representations of Words and Phrases and their Compositionality (**word2vec, NeurIPS 2013**). [[paper](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)]
+- [2013] Playing Atari with Deep Reinforcement Learning (**Q-learning**). [[paper](https://arxiv.org/pdf/1312.5602)]
 - [2012] Imagenet classification with deep convolutional neural networks (**AlexNet, NeurIps 2012**). [[paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
 - [2011] Deep Sparse Rectifier Neural Networks (**ReLU**). [[paper](https://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)]
 - [2009] Imagenet: A large-scale hierarchical image database  (**CVPR 2009**). [[paper](https://hal.science/hal-03926082/document)]
