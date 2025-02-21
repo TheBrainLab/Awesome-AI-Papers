@@ -28,5 +28,5 @@ Collect 0-3 deep learning papers with milestone impact each year (1986-Now). **A
 - [1998] Gradient-based learning applied to document recognition (**CNN, Proceedings of the IEEE 1998**). [[paper](https://hal.science/hal-03926082/document)]
 - [1986] Learning internal representations by error propagation (**BP, Biometrika 1986**). [[paper](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Chap8_PDP86.pdf)]
 
-## Acknowledgement
+### Acknowledgement
 - The collection of papers is somewhat subjective and limited in knowledge. Sorry for any possible omissions.
