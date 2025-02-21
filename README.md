@@ -49,4 +49,4 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 
 ## Notice
 - The collection of papers is somewhat subjective and limited in knowledge. Sorry for any possible omissions.
-- Before this list, there exist [[other awesome deep learning lists](https://github.com/terryum/awesome-deep-learning-papers/tree/master)].
+- Before this list, there exist [[another awesome deep learning list](https://github.com/terryum/awesome-deep-learning-papers/tree/master)].
