@@ -7,7 +7,7 @@ Collect 0-5 deep learning papers with milestone impact each year (1986-Now). **A
 ### 2020-2025
 - [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2501.12948)]
 - [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]
-<[2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)]>
+/*[2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)]*/
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2023] Mamba: Linear-time sequence modeling with selective state spaces (**Mamba**). [[paper](https://minjiazhang.github.io/courses/fall24-resource/Mamba.pdf)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
