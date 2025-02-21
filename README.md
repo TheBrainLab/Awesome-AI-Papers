@@ -1,2 +1,2 @@
-# Deep-Learning-Milestone-Paper-List
-Deep Learning-Milestone Papers
+# Awesome-Deep-Learning-Papers-with-Milestone-Impact
+
