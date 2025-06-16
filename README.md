@@ -20,6 +20,7 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 - [2020] Denoising Diffusion Probabilistic Models (**Diffusion, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
 
 ### 2000-2019
+- [2019] Language Models are Unsupervised Multitask Learners (**GPT-2**). [[paper](https://storage.prod.researchhub.com/uploads/papers/2020/06/01/language-models.pdf)]
 - [2019] Decoupled Weight Decay Regularization (**AdamW, ICLR 2019**). [[paper](https://arxiv.org/pdf/1711.05101)]
 - [2018] Improving language understanding by generative pre-training (**GPT-1**). [[paper](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf)]
 - [2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (**Bert**). [[paper](https://arxiv.org/pdf/1810.04805)]
