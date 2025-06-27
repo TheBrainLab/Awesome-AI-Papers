@@ -22,6 +22,7 @@ Collect **0-5** deep learning papers with milestone impact each year (1986-Now).
 ### 2000-2019
 - [2019] Language Models are Unsupervised Multitask Learners (**GPT-2**). [[paper](https://storage.prod.researchhub.com/uploads/papers/2020/06/01/language-models.pdf)]
 - [2019] Decoupled Weight Decay Regularization (**AdamW, ICLR 2019**). [[paper](https://arxiv.org/pdf/1711.05101)]
+- [2018] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (**BART**). [[paper](https://arxiv.org/pdf/1910.13461)]
 - [2018] Improving language understanding by generative pre-training (**GPT-1**). [[paper](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf)]
 - [2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (**Bert**). [[paper](https://arxiv.org/pdf/1810.04805)]
 - [2017] Mastering the game of Go without human knowledge (**AlphaGOZero, Nature 2017**). [[paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)]
