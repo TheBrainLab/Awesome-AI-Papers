@@ -6,9 +6,10 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 ## Papers
 ### 2025
 - [2025] Qwen3 Technical Report (**Qwen3**). [[paper](https://arxiv.org/pdf/2505.09388?)]
-- [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2501.12948)]
+- [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2408.03314)]
 - [2025] Kimi K1.5: Scaling Reinforcement Learning with LLMs (**Kimi K1.5**). [[paper](https://arxiv.org/pdf/2501.12599?)]
 ### 2024
+- [2024] Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters. [[paper](https://arxiv.org/pdf/2407.21783)]
 - [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]
 - [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)]
 - [2024] Mixtral of Experts (**SMoE**). [[paper](https://arxiv.org/pdf/2403.05530)]
