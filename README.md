@@ -30,7 +30,7 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2022] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding(**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)]
 ### 2021
 - [2021] Emerging Properties in Self‑Supervised Vision Transformers(**DINO**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)]
-- [2021] Highly accurate protein structure prediction with AlphaFold (**Nature 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
+- [2021] Highly accurate protein structure prediction with AlphaFold (**Nature 2021**). [[paper](https://www.nature.com/articles/s41586-021-03819-2)]
 - [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
 - [2021] An image is worth 16x16 words: Transformers for image recognition at scale (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
