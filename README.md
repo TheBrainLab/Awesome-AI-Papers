@@ -7,7 +7,9 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 ### 2025
 - [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2501.12948)]
 ### 2024
-- [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]  <!-- [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)] 
+- [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]
+- [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)]
+- [2024] Mixtral of Experts (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)]
 ### 2023
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2023] Llama 2: Open Foundation and Fine-Tuned Chat Models(**LLaMa 2**). [[paper](https://arxiv.org/pdf/2307.09288)]
@@ -16,6 +18,7 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2023] QLoRA: Efficient Finetuning of Quantized LLMs (**QLoRA**). [[paper](https://arxiv.org/abs/2305.14314)]
 - [2023] Gemini: A Family of Highly Capable Multimodal Models(**Gemini**). [[paper](https://arxiv.org/pdf/2312.11805)]
 - [2023] Qwen Technical Report (**Qwen**). [[paper](https://arxiv.org/pdf/2309.16609)]
+- [2023] PaLM: Scaling Language Modeling with Pathways (**PaLM, JMLR 2023**). [[paper](https://www.jmlr.org/papers/volume24/22-1144/22-1144.pdf)]
 ### 2022
 - [2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (**CoT**). [[paper](https://arxiv.org/pdf/2201.11903)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
