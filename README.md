@@ -13,7 +13,7 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2023] Llama 2: Open Foundation and Fine-Tuned Chat Models(**LLaMa 2**). [[paper](https://arxiv.org/pdf/2307.09288)]
 - [2023] Mamba: Linear-time sequence modeling with selective state spaces (**Mamba**). [[paper](https://minjiazhang.github.io/courses/fall24-resource/Mamba.pdf)]
 - [2023] LLaMA: Open and Efficient Foundation Language Models (**LLaMa**). [[paper](https://arxiv.org/pdf/2302.13971)]
-- [2023] QLoRA: Efficient Finetuning of Quantized LLMs (**QLoRA**). [[paper](QLORA: Efficient Finetuning of Quantized LLMs)]
+- [2023] QLoRA: Efficient Finetuning of Quantized LLMs (**QLoRA**). [[paper](https://arxiv.org/abs/2305.14314)]
 - [2023] Gemini: A Family of Highly Capable Multimodal Models(**Gemini**). [[paper](https://arxiv.org/pdf/2312.11805)]
 - [2023] Qwen Technical Report (**Qwen**). [[paper](https://arxiv.org/pdf/2309.16609)]
 ### 2022
