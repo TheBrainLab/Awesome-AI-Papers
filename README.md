@@ -18,7 +18,7 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2023] Qwen Technical Report (**Qwen**). [[paper](https://arxiv.org/pdf/2309.16609)]
 ### 2022
 - [2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (**CoT**). [[paper](https://arxiv.org/pdf/2201.11903)]
-- [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
+- [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
 - [2022] Masked Autoencoders Are Scalable Vision Learners (**MAE, CVPR 2022**).  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
 - [2022] High-Resolution Image Synthesis with Latent Diffusion Models (**StableDiffusion, CVPR 2022**). [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models (**ICLR 2022**). [[paper](https://arxiv.org/pdf/2106.09685v1/1000)]
