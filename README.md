@@ -29,10 +29,15 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models (**ICLR 2022**). [[paper](https://arxiv.org/pdf/2106.09685v1/1000)]
 - [2022] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding(**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)]
 ### 2021
+- [2021] Emerging Properties in Self‑Supervised Vision Transformers(**DINO**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)]
+- [2021] Highly accurate protein structure prediction with AlphaFold (**Nature 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
 - [2021] An image is worth 16x16 words: Transformers for image recognition at scale (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
+- [2021] Zero-Shot Text-to-Image Generation(**PMLR 2021**). [[paper](https://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf)]
+- [2021] Evaluating Large Language Models Trained on Code(**Codex**). [[paper](https://arxiv.org/pdf/2107.03374)]
 ### 2020
+- [2020] End-to-end object detection with transformers(**DETR, ECCV 2020**). [[paper](https://arxiv.org/pdf/2005.12872)]
 - [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
 - [2020] Denoising Diffusion Probabilistic Models (**Diffusion, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
 
