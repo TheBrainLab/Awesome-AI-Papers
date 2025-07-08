@@ -1,22 +1,33 @@
 # Awesome-AI-Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect **0-5** the most impressive AI papers each year. **Actively keep updating**
+Collect **0-10** the most impressive AI papers each year. **Actively keep updating**
 
 
 ## Papers
-### 2020-2025
+### 2025
 - [2025] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (**DeepSeek-R1**). [[paper](https://arxiv.org/pdf/2501.12948)]
-- [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]  <!-- [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)] -->
+### 2024
+- [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]  <!-- [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)] 
+### 2023
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
+- [2023] Llama 2: Open Foundation and Fine-Tuned Chat Models(**LLaMa 2**). [[paper](https://arxiv.org/pdf/2307.09288)]
 - [2023] Mamba: Linear-time sequence modeling with selective state spaces (**Mamba**). [[paper](https://minjiazhang.github.io/courses/fall24-resource/Mamba.pdf)]
+- [2023] LLaMA: Open and Efficient Foundation Language Models (**LLaMa**). [[paper](https://arxiv.org/pdf/2302.13971)]
+- [2023] QLoRA: Efficient Finetuning of Quantized LLMs (**QLoRA**). [[paper](QLORA: Efficient Finetuning of Quantized LLMs)]
+- [2023] Gemini: A Family of Highly Capable Multimodal Models(**Gemini**). [[paper](https://arxiv.org/pdf/2312.11805)]
+- [2023] Qwen Technical Report (**Qwen**). [[paper](https://arxiv.org/pdf/2309.16609)]
+### 2022
 - [2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (**CoT**). [[paper](https://arxiv.org/pdf/2201.11903)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
 - [2022] Masked Autoencoders Are Scalable Vision Learners (**MAE, CVPR 2022**).  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
 - [2022] High-Resolution Image Synthesis with Latent Diffusion Models (**StableDiffusion, CVPR 2022**). [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models (**ICLR 2022**). [[paper](https://arxiv.org/pdf/2106.09685v1/1000)]
+- [2022] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding(**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf)]
+### 2021
 - [2021] Hierarchical Vision Transformer using Shifted Windows (**Swin, ICCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)]
 - [2021] An image is worth 16x16 words: Transformers for image recognition at scale (**ViT, ICLR 2021**). [[paper](https://arxiv.org/pdf/2010.11929)]
 - [2021] Learning Transferable Visual Models From Natural Language Supervision (**CLIP, ICML 2021**). [[paper](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)]
+### 2020
 - [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
 - [2020] Denoising Diffusion Probabilistic Models (**Diffusion, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
 
