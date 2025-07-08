@@ -12,6 +12,7 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2024] Mixtral of Experts (**SMoE**). [[paper](https://arxiv.org/pdf/2403.05530)]
 - [2024] Phi-3 technical report: A highly capable language model locally on your phone (**PHI**). [[paper](https://arxiv.org/pdf/2404.14219)]
 - [2024] A survey on evaluation of large language models(**Survey**). [[paper](https://dl.acm.org/doi/pdf/10.1145/3641289)]
+- [2024] Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Models(**VIM**). [[paper](https://arxiv.org/pdf/2401.09417)]
 ### 2023
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2023] Llama 2: Open Foundation and Fine-Tuned Chat Models(**LLaMa 2**). [[paper](https://arxiv.org/pdf/2307.09288)]
