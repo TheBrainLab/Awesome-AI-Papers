@@ -9,6 +9,7 @@ Collect **0-5** the most impressive AI papers each year. **Actively keep updatin
 - [2024] The Llama 3 Herd of Models (**Llama 3**). [[paper](https://arxiv.org/pdf/2407.21783)]  <!-- [2024] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (**Gemini 1.5**). [[paper](https://arxiv.org/pdf/2403.05530)] -->
 - [2023] GPT-4 Technical Report (**GPT-4**). [[paper](https://arxiv.org/pdf/2303.08774)]
 - [2023] Mamba: Linear-time sequence modeling with selective state spaces (**Mamba**). [[paper](https://minjiazhang.github.io/courses/fall24-resource/Mamba.pdf)]
+- [2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (**Cot**). [[paper](https://arxiv.org/pdf/2201.11903)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5, NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
 - [2022] Masked Autoencoders Are Scalable Vision Learners (**MAE, CVPR 2022**).  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
 - [2022] High-Resolution Image Synthesis with Latent Diffusion Models (**StableDiffusion, CVPR 2022**). [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
