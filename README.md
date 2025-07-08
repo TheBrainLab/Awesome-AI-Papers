@@ -40,6 +40,11 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2020] End-to-end object detection with transformers(**DETR, ECCV 2020**). [[paper](https://arxiv.org/pdf/2005.12872)]
 - [2020] Language Models are Few-Shot Learners (**GPT-3, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)]
 - [2020] Denoising Diffusion Probabilistic Models (**Diffusion, NeurIPS 2020**). [[paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
+- [2020] YOLOv4: Optimal Speed and Accuracy of Object Detection(**YOLOv4**). [[paper](https://arxiv.org/pdf/2004.10934)]
+- [2020] Exploring the limits of transfer learning with a unified text-to-text transformer(**T5**). [[paper](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf)]
+- [2020] Efficientdet: Scalable and efficient object detection (**ICCV 2020**). [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tan_EfficientDet_Scalable_and_Efficient_Object_Detection_CVPR_2020_paper.pdf)]
+- [2020] A Simple Framework for Contrastive Learning of Visual Representations (**ICML 2020**). [[paper](https://proceedings.mlr.press/v119/chen20j/chen20j.pdf)]
+- [2020] ALBERT: A Lite BERT for Self-supervised Learning of Language Representations(**ICLR 2020**). [[paper](https://arxiv.org/pdf/1909.11942)]
 
 ### 2000-2019
 - [2019] Language Models are Unsupervised Multitask Learners (**GPT-2**). [[paper](https://storage.prod.researchhub.com/uploads/papers/2020/06/01/language-models.pdf)]
