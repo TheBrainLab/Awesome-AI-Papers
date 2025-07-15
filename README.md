@@ -29,6 +29,8 @@ Collect **0-10** the most impressive AI papers each year. **Actively keep updati
 - [2023] Gemini: A Family of Highly Capable Multimodal Models(**Gemini**). [[paper](https://arxiv.org/pdf/2312.11805)]
 - [2023] Qwen Technical Report (**Qwen**). [[paper](https://arxiv.org/pdf/2309.16609)]
 - [2023] PaLM: Scaling Language Modeling with Pathways (**PaLM, JMLR 2023**). [[paper](https://www.jmlr.org/papers/volume24/22-1144/22-1144.pdf)]
+- [2023] Visual Instruction Tuning (**LLaVA, NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2304.08485)]
+
 ### 2022
 - [2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (**CoT**). [[paper](https://arxiv.org/pdf/2201.11903)]
 - [2022] Training language models to follow instructions with human feedback (**InstructGPT, GPT-3.5**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)]
